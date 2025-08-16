@@ -2,7 +2,7 @@
 A web-based flashcard game with grammar colors inspired by Teacher Matt’s Dad Jokes!
 
 ## Play Now
-Open [the game](https://your-username.github.io/IndiAdventure) on your phone!
+Open [the game](https://Mattchow73.github.io/IndiAdventure) on your phone!
 
 ## How to Play
 1. Click the link above.
